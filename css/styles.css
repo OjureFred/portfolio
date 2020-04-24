@@ -1,0 +1,43 @@
+.secheading {
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+}
+.heading {
+  border-style: solid;
+  background-color: beige;
+  text-align: center;
+  padding: 10px;
+}
+.container {
+  display: flex;
+  padding: 10px;
+}
+.info {
+  width: 45%;
+  height: 500px;
+  border-style: solid;
+  float: left;
+  padding: 10px;
+}
+.professional {
+  width: 45%;
+  height: 500px;
+  border-style: solid;
+  float: right;
+  padding: 10px;
+}
+.other {
+  width: 45%;
+  height: 500px;
+  border-style: solid;
+  float: left;
+  padding: 10px;
+}
+.hobbies {
+  width: 45%;
+  height: 500px;
+  border-style: solid;
+  float: right;
+  padding: 10px;
+}
