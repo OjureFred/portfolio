@@ -66,3 +66,9 @@ div {
   padding: 20px;
   margin-right: 5px;
 }
+.basicdiv {
+  float: left;
+}
+.picdiv {
+  float: right;
+}
