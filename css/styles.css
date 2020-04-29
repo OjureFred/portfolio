@@ -72,3 +72,14 @@ div {
 .picdiv {
   float: right;
 }
+.implementation{
+  float: left;
+  width: 45%
+}
+.programming {
+  float: right ;
+  width: 45%;
+}
+table, th, td {
+  border: 1px solid black;
+}
